@@ -116,7 +116,7 @@ const Layout = () => {
             <div className="wrap-avatar px-0 col-xl-6 col-12">
               <img
                 src="/images/account-photo.png"
-                alt="Account photo"
+                alt="Account"
                 className="user-avatar rounded-circle"
               />
               Hi, Michelle

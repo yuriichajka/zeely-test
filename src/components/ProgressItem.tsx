@@ -29,7 +29,7 @@ const ProgressItem: FC<Props> = ({
           alt="Status checkbox"
           className=""
         />
-        <div className="d-flex align-items-center">{title}</div>
+        <div className="d-flex align-items-center pt-1">{title}</div>
         {isLocked && (
           <div className="locked d-flex ml-2">
             <img src="/images/locked.svg" alt="Locked logo" />
